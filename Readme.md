@@ -9,3 +9,7 @@ Gostou do curso? Quer mais? Ajude com uma doação. Até um café é válido.
 HOTFIX!!!
 
 Linha adicionada depois de enviado para o GitHub
+
+Agora vai ser o git stash...
+
+TAGS are cool
