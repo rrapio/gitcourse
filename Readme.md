@@ -11,5 +11,3 @@ HOTFIX!!!
 Linha adicionada depois de enviado para o GitHub
 
 Agora vai ser o git stash...
-
-TAGS are cool!
